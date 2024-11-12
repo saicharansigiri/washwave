@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687433025842",
+    "project_id": "wash-wave",
+    "storage_bucket": "wash-wave.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687433025842:android:1c84c56d7fe081868a6f2b",
+        "android_client_info": {
+          "package_name": "com.raghav.washwave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_tLGn5U48Ufl1eq2eqYRh3ZIol4wlS18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
