@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">wash wave</string>
+    <string name="title_activity_auth">AuthActivity</string>
+    <string name="enter_your_mobile_number_to_continue">Enter your Mobile Number to continue.</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_verification_code">Enter Verification Code</string>
+    <string name="verification_code">Verification code</string>
+    <string name="edit_mobile_number">edit mobile number</string>
+    <string name="back_button">back button</string>
+    <string name="help_center">help center icon</string>
+    <string name="profile_picture">profile picture</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="trailing_icon">trailing icon</string>
+    <string name="need_help_we_re_here_for_you">Need Help? We\'re Here for You!</string>
+    <string name="our_support_team_is_available_24x7_to_help_you_with_any_issues_or_inquiries">Our support team is available 24X7 to help you with any issues or inquiries.</string>
+    <string name="_91_9896555758">+91-9896555758</string>
+    <string name="if_you_have_any_questions">If you have any questions or need assistance, feel free to reach out to us at:</string>
+    <string name="empty_number">Phone number cannot be empty.</string>
+    <string name="in_complete_number">Phone number must be exactly 10 digits.</string>
+    <string name="must_contain_digits">Phone number must contain only digits.</string>
+    <string name="wrong_starting_digit">Phone number must start with a digit between 6 and 9.</string>
+    <string name="choose_your_plan">Choose Your Plan</string>
+    <string name="title_activity_payment">PaymentActivity</string>
 </resources>

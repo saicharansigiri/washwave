@@ -17,3 +17,9 @@ data object RateListScreen : Screen()
 
 @Serializable
 data object CheckoutScreen : Screen()
+
+@Serializable
+data object LoginScreen : Screen()
+
+@Serializable
+data class OTPScreen(val mobileNumber: String = "") : Screen()
